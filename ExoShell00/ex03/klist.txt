@@ -1,0 +1,5 @@
+Credentials cache: API:AD145023-BCC1-499D-9258-8242463AF6EB
+        Principal: ameki@42.FR
+
+  Issued                Expires               Principal
+Aug 27 14:59:41 2019  Sep  3 14:59:41 2019  krbtgt/42.FR@42.FR
